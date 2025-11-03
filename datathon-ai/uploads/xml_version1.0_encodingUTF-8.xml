@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product_catalog>
+  <item>
+    <id>SKU001</id>
+    <name>Test Widget</name>
+    <price currency="USD">19.99</price>
+    <in_stock>true</in_stock>
+  </item>
+</product_catalog>

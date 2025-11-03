@@ -1,6 +1,0 @@
-flask
-werkzeug
-agno
-boto3
-python-dotenv
-pathlib
